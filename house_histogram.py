@@ -22,4 +22,6 @@ histogram show the distribution of data specifically numerical data
 
 # to check the individual feature histogram
 data_df["median_house_value"].hist()
-plt.show()
+# plt.show()
+
+print(data_df["households"])
