@@ -38,6 +38,8 @@ the correlation matrix shows the correlation or the relationship between the dif
 Analysis for the correlation of the target variable:
 correlation values which have:
 
+
+
 | values | definition |
 | --- | --- |
 | -1 | negative correlation (as one values increases the other decreases) |
@@ -60,3 +62,13 @@ correlation values which have:
 | median_house_value | island | 0.024 | No correlatoin |
 | median_house_value | near bay | 0.16 | slightly better |
 | median_house_value | near ocean| 0.14  | slightly better |
+
+
+
+### New correlation matrix heatmap with new features
+![new_correlation_heatmap_with_new_features](/images/new_correlation_heatmap_matrix.png)
+
+
+
+### Features
+1H OCEAN : less than 1 hour from the ocean
