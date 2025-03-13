@@ -19,3 +19,13 @@ the correlation matrix shows the correlation or the relationship between the dif
 
 
 ![correlation_matrix_heatmap](images/house_numerical_features_heatmpa.png)
+
+
+### Histogram chart after normalizing the house dataset features
+**Features that have been normalized:**
+- households
+- population
+- total_rooms
+- total_bedrooms
+
+![histogram_chart_after_normalization](./images/house_histogram_features_after_normalizing.png)
